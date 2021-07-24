@@ -1,0 +1,82 @@
+=======================================================================commands for git hub
+
+
+ ls- list of file in folder 
+
+
+
+ cd- change derectory /////example-cd-radhakant
+
+
+
+we can write lik ========cd/documents/learn/languages
+
+
+up -go prvious folder 
+ 
+
+cd ~ === root directory
+
+
+cd ..=== back one level
+
+clear == clear all screen 
+
+
+hold alt button and click where you want to go 
+
+
+for begaining in the line press ===ctrl +A
+
+for end of the line press ==ctrl +E;
+ 
+
+for clearing command press=ctrl+u;
+
+
+for creating file in folder: press === touch sam.txt
+
+for removing file== rm file name 
+
+
+for removing all file== rm *
+
+
+for initializing git === type git init
+
+we have to add in staging area press- git add chapter1.txt
+
+for commiting command is=========git commit -m ""
+
+we can see date of commiting by=== git log
+
+for adding all file  in staging area ===git add .
+
+for cheking diff between written files===git diff
+
+
+if we want to change file to previous file ==git checkout filename 
+
+
+if we want to push in remote repositry ==git remote add origin repositary
+                                          git push -u origin master
+working directory 
+staging area 
+local repositary 
+remote repositary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
